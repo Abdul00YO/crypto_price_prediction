@@ -20,7 +20,7 @@ A Streamlit-based web application that predicts the next 7 days of **BTC**, **ET
 
 Follow the steps below to get the app running locally:
 
-Make sure u have python version <=3.11 installed.
+**Make sure u have python version ``<=3.11`` installed.**
 
 ### 1. Clone the repository
 ```bash
