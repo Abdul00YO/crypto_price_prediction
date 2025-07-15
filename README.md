@@ -93,6 +93,3 @@ crypto_price_prediction/
 
 ---
 
-## 📧 Contact
-
-For support or contributions, feel free to reach out: [support@yourdomain.com](mailto:support)
