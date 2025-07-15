@@ -6,9 +6,8 @@ A Streamlit-based web application that predicts the next 7 days of **BTC**, **ET
 
 ## 🚀 Features
 
-- 📈 Predict next 7-day prices for **Bitcoin (BTC)**, **Ethereum (ETH)**, and **Binance Coin (BNB)**
+- 📈 Predict next prices for **Bitcoin (BTC)**, **Ethereum (ETH)**, and **Binance Coin (BNB)**
 - 🧠 Choose from 4 powerful models:
-  - ARIMA
   - ARIMAX (with news sentiment)
   - Facebook Prophet
   - LSTM (Deep Learning)
