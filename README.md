@@ -20,6 +20,8 @@ A Streamlit-based web application that predicts the next 7 days of **BTC**, **ET
 
 Follow the steps below to get the app running locally:
 
+**Make sure u have python version ``<=3.11`` installed.**
+
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/crypto_price_prediction.git
@@ -45,12 +47,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-✅ **Important**: Ensure your environment uses compatible versions of:
-- `tensorflow==2.11.0`
-- `numpy` (must match the version used during model saving)
-- `streamlit<2.0` if using `pandas<2.0`
-
----
 
 ## ▶️ Run the Streamlit App
 
