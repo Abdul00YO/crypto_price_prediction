@@ -47,12 +47,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-✅ **Important**: Ensure your environment uses compatible versions of:
-- `tensorflow==2.11.0`
-- `numpy` (must match the version used during model saving)
-- `streamlit<2.0` if using `pandas<2.0`
-
----
 
 ## ▶️ Run the Streamlit App
 
